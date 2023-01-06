@@ -16,9 +16,5 @@
     #pragma HLS unroll factor = 11                          // unroll as the maximum array size
     <br />
     <br />
-<<<<<<< Updated upstream
-  </p>
-=======
   </p>
   
->>>>>>> Stashed changes
